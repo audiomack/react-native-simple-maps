@@ -48,8 +48,7 @@
     "mocha": "^5.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "prop-types": "^15.7.2",
-    "react-test-utils": "^0.0.1"
+    "prop-types": "^15.7.2"
   },
   "peerDependencies": {
     "react": "^16.8.0 || 17.x",
